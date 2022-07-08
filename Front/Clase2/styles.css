@@ -29,6 +29,7 @@ h1,texto-encima{
     text-align: center;
     display: inline-block;
     margin-right: 0%;
+
     
    
   
@@ -42,6 +43,7 @@ h2{
     width: 40%;
     height: 400px;
     float: left;
+    
     
 }
 p{
