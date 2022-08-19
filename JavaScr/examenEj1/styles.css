@@ -1,0 +1,23 @@
+.tituloRojo{
+    color: red;
+    font-style: italic;
+}
+
+.tituloAzul{
+    color: blue;
+    font-style: italic;
+}
+
+.botonSuma{
+    color: blue;
+    font-style: italic;
+    background-color:cornsilk;
+}
+
+.botonResta{
+    color: red;
+    font-style: italic;
+    background-color: cornsilk;
+}
+
+
